@@ -1,0 +1,137 @@
+tijolos:
+  # ID único, não utilize IDs repetidos.
+  id: 1
+  coins: 2000.0
+  cash: 25
+  rarity: COMUM
+  permission: ''
+  name: 'Tijolos'
+  material: BRICK
+tijolos_de_pedra:
+  id: 2
+  coins: 1000.0
+  cash: 25
+  rarity: COMUM
+  permission: ''
+  name: 'Tijolos de Pedra'
+  material: SMOOTH_BRICK
+bloco_de_diamante:
+  id: 3
+  coins: 5000.0
+  cash: 100
+  rarity: DIVINO
+  permission: 'role.mvpplus'
+  name: 'Bloco de Diamante'
+  material: DIAMOND_BLOCK
+arenito_vermelho:
+  id: 4
+  coins: 2500.0
+  cash: 25
+  rarity: COMUM
+  permission: ''
+  name: 'Arenito Vermelho'
+  material: RED_SANDSTONE
+tijolos_do_nether:
+  id: 5
+  coins: 2000.0
+  cash: 25
+  rarity: COMUM
+  permission: ''
+  name: 'Tijolos do Nether'
+  material: NETHER_BRICK
+bloco_de_quartzo:
+  id: 6
+  coins: 2500.0
+  cash: 25
+  rarity: COMUM
+  permission: ''
+  name: 'Bloco de Quartzo'
+  material: QUARTZ_BLOCK
+gelo_compactado:
+  id: 7
+  coins: 1500.0
+  cash: 25
+  rarity: COMUM
+  permission: ''
+  name: 'Gelo Compactado'
+  material: PACKED_ICE
+bloco_de_ouro:
+  id: 8
+  coins: 4000.0
+  cash: 75
+  rarity: EPICO
+  permission: 'role.mvp'
+  name: 'Bloco de Ouro'
+  material: GOLD_BLOCK
+pedra:
+  id: 9
+  coins: 3500.0
+  cash: 50
+  rarity: RARO
+  permission: ''
+  name: 'Pedra'
+  material: STONE
+prismarinho:
+  id: 10
+  coins: 2500.0
+  cash: 25
+  rarity: COMUM
+  permission: ''
+  name: 'Prismarinho'
+  material: PRISMARINE
+bloco_de_ferro:
+  id: 11
+  coins: 3000.0
+  cash: 50
+  rarity: RARO
+  permission: 'role.vip'
+  name: 'Bloco de Ferro'
+  material: IRON_BLOCK
+bloco_de_carvao:
+  id: 12
+  coins: 2000.0
+  cash: 25
+  rarity: COMUM
+  permission: ''
+  name: 'Bloco de Carvão'
+  material: COAL_BLOCK
+rocha_do_nether:
+  id: 13
+  coins: 3500.0
+  cash: 50
+  rarity: RARO
+  permission: ''
+  name: 'Rocha do Nether'
+  material: NETHERRACK
+minerio_de_diamante:
+  id: 14
+  coins: 5000.0
+  cash: 100
+  rarity: DIVINO
+  permission: 'role.mvpplus'
+  name: 'Minério de Diamante'
+  material: DIAMOND_ORE
+minerio_de_ouro:
+  id: 15
+  coins: 4000.0
+  cash: 75
+  rarity: EPICO
+  permission: 'role.mvp'
+  name: 'Minério de Ouro'
+  material: GOLD_ORE
+minerio_de_ferro:
+  id: 16
+  coins: 3000.0
+  cash: 50
+  rarity: RARO
+  permission: 'role.vip'
+  name: 'Minério de Ferro'
+  material: IRON_ORE
+minerio_de_carvao:
+  id: 17
+  coins: 2000.0
+  cash: 25
+  rarity: COMUM
+  permission: ''
+  name: 'Minério de Carvão'
+  material: COAL_ORE

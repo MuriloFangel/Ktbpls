@@ -1,0 +1,6 @@
+author: NyystesinaKiwi
+name: kTheBridge
+version: 1.2
+depend: [kCore]
+
+main: dev.slickcollections.kiwizin.thebridge.Main

@@ -1,0 +1,21 @@
+vida_extra:
+  coins: 10000.0
+  cash: 50
+  rarity: RARO
+  permission: 'role.mvp'
+  name: 'Vida Extra'
+  icon: 'APPLE : 1 : desc>&7Receba corações extras de vida\n&7para ajudar em sua batalha.'
+  # Quantia de corações extras
+  health: 2
+headshot:
+  coins: 5000.0
+  cash: 25
+  rarity: COMUM
+  permission: ''
+  name: 'Headshot'
+  icon: 'FERMENTED_SPIDER_EYE : 1 : desc>&7Tenha chance de deixar seu inimigo\n&7com naúsea ao acertar uma flecha\n&7em sua cabeça.'
+  percentage: 50
+  # Nível do efeito de naúsea
+  level: 2
+  # Em ticks 20 ticks = 1 segundo
+  time: 200
